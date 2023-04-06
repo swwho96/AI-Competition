@@ -10,4 +10,10 @@
 
 평가 방식 - Macro-F1 Score
 
+---
+
 대회 결과 - 70th (70/577)
+
+사용 알고리즘 - AutoML(Autogluon), Xgboost, LightGBM
+
+최종 알고리즘 - LightGBM
